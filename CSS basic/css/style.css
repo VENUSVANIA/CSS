@@ -1,0 +1,101 @@
+div .content {
+	color:red;
+	font-weight:bold;
+}
+
+div.content{
+	color:blue;
+	font-weight:bold;
+}
+
+#content{
+	color:pink;
+	font-weight:bold;
+}
+
+div,p{
+	font-weight:bold;
+}
+
+article > p{
+	color: orange;
+}
+
+article p{
+	color:purple;
+}
+
+
+
+
+/*aside + p{
+	background-color:
+	lightgreen;
+}
+
+header ~ p{
+	background-color:  lightblue;
+}*/
+
+a:hover{
+	background-color: green;
+	text-decoration: none;
+}
+
+
+p#custom:hover{
+	cursor: pointer;
+}
+
+
+
+
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+
+
+/*//exemples*/
+#button {
+  background-color: green;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+#button:hover {
+  background-color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
